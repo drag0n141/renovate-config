@@ -6,6 +6,7 @@
     "helpers:pinGitHubActionDigests",
     "github>drag0n141/renovate-config:custom-managers.json5",
     "github>drag0n141/renovate-config:commit-message",
+    "github>drag0n141/renovate-config:packageRules.json5",
     "github>drag0n141/renovate-config:pr-labels",
     ":dependencyDashboard",
     ":disableRateLimiting",
