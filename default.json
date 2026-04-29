@@ -18,6 +18,9 @@
     "prEditedNotification",
     "prIgnoreNotification"
   ],
+  "registryAliases": {
+    "mirror.gcr.io": "docker.io",
+  },
   "commitBodyTable": true,
   "rebaseWhen": "auto",
   "platformCommit": "enabled"
